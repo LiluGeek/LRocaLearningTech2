@@ -1,21 +1,239 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Toupdatemomentarily.com" resolutions="1x" timestamp="1545690297141">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LRocaInstructionalDesigner.com" resolutions="1x" timestamp="1546217205849">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="381571594" ref="index"/>
+    <file name="master_home-master.css" crc="37444060" ref="graphics:poster:text:elearning:index"/>
+    <file name="nomq_preview_master_home-master.css" crc="373221082" ref="graphics:poster:text:elearning:index"/>
+    <file name="graphics.css" crc="3949347558" ref="graphics"/>
+    <file name="nomq_graphics.css" crc="4062566518" ref="graphics"/>
+    <file name="poster.css" crc="3815619137" ref="poster"/>
+    <file name="nomq_poster.css" crc="423184629" ref="poster"/>
+    <file name="text.css" crc="522989262" ref="text"/>
+    <file name="nomq_text.css" crc="299987672" ref="text"/>
+    <file name="elearning.css" crc="269990773" ref="elearning"/>
+    <file name="nomq_elearning.css" crc="4240217262" ref="elearning"/>
+    <file name="index.css" crc="303881567" ref="index"/>
+    <file name="nomq_index.css" crc="3844270778" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="310584261" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:text:graphics:elearning:poster"/>
+    <file name="museutils.js" crc="340535759" ref="index:text:graphics:elearning:poster"/>
+    <file name="whatinput.js" crc="86476730" ref="index:text:graphics:elearning:poster"/>
+    <file name="museconfig.js" crc="310584261" ref="index:text:graphics:elearning:poster"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:text:graphics:elearning:poster"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:text:graphics:elearning:poster"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:text:graphics:elearning:poster"/>
+    <file name="webpro.js" crc="4059564322" ref="index:text:graphics:elearning:poster"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:text:graphics:elearning:poster"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:text:graphics:elearning"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:text:graphics:elearning:poster"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:text:graphics:elearning:poster"/>
+    <file name="require.js" crc="7928878" ref="index:text:graphics:elearning:poster"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="graphics"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="graphics"/>
+    <file name="touchswipe.js" crc="4075097462" ref="graphics"/>
   </folder>
   <folder name="images">
-    <file name="homepagepic.jpg" crc="3784829568" ref="index">
+    <file name="signature.jpg" crc="4249012794" seo="true" ref="index:text:graphics:elearning:poster">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="text" alt=""/>
+      <caption webpage="text" alt=""/>
+      <caption webpage="text" alt=""/>
+      <caption webpage="text" alt=""/>
+      <caption webpage="text" alt=""/>
+      <caption webpage="text" alt=""/>
+      <caption webpage="text" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="homepagepic.jpg" crc="3784829568" ref="index:text:graphics:elearning">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="profilepic.gif" crc="3768456561" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portfoliosectionpic.jpg" crc="3922176868" ref="index:text:graphics:elearning">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elearnmobile.jpg" crc="263644861" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elearnmobile-u252845-r-fr.png" crc="165676817" ref="index"/>
+    <file name="textsmobile.jpg" crc="4192296464" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="textsmobile-u252727-r-fr.png" crc="4250007989" ref="index"/>
+    <file name="graphicsmobile.jpg" crc="307849289" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphicsmobile-u252871-r-fr.png" crc="134084855" ref="index"/>
+    <file name="contactpic2200pxportrait.jpg" crc="4194359441" ref="index:text:graphics">
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="homepagepic-u5040-fr.jpg" crc="359819234" ref="index:graphics:elearning"/>
+    <file name="contactpic2200pxportrait-u19520-fr.jpg" crc="3955437596" ref="index"/>
+    <file name="homepagepic-u5040-fr2.jpg" crc="248862036" ref="index:graphics:elearning"/>
+    <file name="elearnmobile-u252845-fr.jpg" crc="528485798" ref="index"/>
+    <file name="elearnmobile-u252845-r-fr2.png" crc="54437075" ref="index"/>
+    <file name="textsmobile-u252727-fr.jpg" crc="3795492600" ref="index"/>
+    <file name="textsmobile-u252727-r-fr2.png" crc="4160863393" ref="index"/>
+    <file name="graphicsmobile-u252871-fr.jpg" crc="534648422" ref="index"/>
+    <file name="graphicsmobile-u252871-r-fr2.png" crc="3906416093" ref="index"/>
+    <file name="contactpic2200pxportrait-u19520-fr2.jpg" crc="473777743" ref="index"/>
+    <file name="homepagepic-u5040-fr3.jpg" crc="61005415" ref="index"/>
+    <file name="elearnmobile-u252845-fr2.jpg" crc="3827096069" ref="index"/>
+    <file name="elearnmobile-u252845-r-fr3.png" crc="198074749" ref="index"/>
+    <file name="textsmobile-u252727-fr2.jpg" crc="237520093" ref="index"/>
+    <file name="textsmobile-u252727-r-fr3.png" crc="4144367387" ref="index"/>
+    <file name="graphicsmobile-u252871-fr2.jpg" crc="445883323" ref="index"/>
+    <file name="graphicsmobile-u252871-r-fr3.png" crc="41779714" ref="index"/>
+    <file name="contactpic2200pxportrait-u19520-fr3.jpg" crc="379404006" ref="index:graphics"/>
+    <file name="elearnmobile-u252845-fr3.jpg" crc="314671063" ref="index"/>
+    <file name="elearnmobile-u252845-r-fr4.png" crc="4200499786" ref="index"/>
+    <file name="contactpic2200pxportrait-u19520-fr4.jpg" crc="239884001" ref="index"/>
+    <file name="homepagepic-u5040-fr4.jpg" crc="174946497" ref="index"/>
+    <file name="contactpic2200pxportrait-u19520-fr5.jpg" crc="3897051301" ref="index:text"/>
+    <file name="homepagepic-u5040-fr5.jpg" crc="4291310008" ref="index"/>
+    <file name="contactpic2200pxportrait-u19520-fr6.jpg" crc="4054568234" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:text:graphics:elearning:poster"/>
+    <file name="contactpic2200pxportrait-u120010-fr.jpg" crc="4280687143" ref="text"/>
+    <file name="contactpic2200pxportrait-u120010-fr2.jpg" crc="208713273" ref="text"/>
+    <file name="homepagepic-u125411-fr.jpg" crc="363875312" ref="text"/>
+    <file name="portfoliosectionpic-u120865-fr.jpg" crc="4238325299" ref="text:graphics:elearning"/>
+    <file name="contactpic2200pxportrait-u120010-fr3.jpg" crc="254639265" ref="text"/>
+    <file name="homepagepic-u125411-fr2.jpg" crc="94122253" ref="text"/>
+    <file name="portfoliosectionpic-u120865-fr2.jpg" crc="4277143453" ref="text"/>
+    <file name="contactpic2200pxportrait-u120010-fr4.jpg" crc="4174721404" ref="text"/>
+    <file name="homepagepic-u125411-fr3.jpg" crc="298108390" ref="text"/>
+    <file name="portfoliosectionpic-u120865-fr3.jpg" crc="3887112409" ref="text"/>
+    <file name="homepagepic-u125411-fr4.jpg" crc="3783308601" ref="text"/>
+    <file name="homepagepic-u125468-fr.jpg" crc="213930211" ref="text"/>
+    <file name="pedagogies5040.png" crc="295550131" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="coral-reefgif.gif" crc="512019211" ref="graphics:poster">
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="scratch.gif" crc="4014863908" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="scratch-u256455-r-fr.png" crc="3860981680" ref="graphics"/>
+    <file name="portal2.jpg" crc="3762511788" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portal2-u375692-r-fr.png" crc="3874361623" ref="graphics"/>
+    <file name="06rose.jpg" crc="4241278150" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="03caterpillars.gif" crc="494802515" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="04butterflies.gif" crc="4108162395" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="01seagull.gif" crc="279571725" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="05candystore.gif" crc="512975698" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="07gazebo.gif" crc="4052502665" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="pedagogies5040-u145089-3-fr.png" crc="4293780813" ref="graphics"/>
+    <file name="contactpic2200pxportrait-u129147-fr.jpg" crc="4014766943" ref="graphics"/>
+    <file name="contactpic2200pxportrait-u129147-fr2.jpg" crc="3848766498" ref="graphics"/>
+    <file name="06rose-u141852-fr.jpg" crc="28073520" ref="graphics"/>
+    <file name="homepagepic-u129154-fr.jpg" crc="3817284810" ref="graphics"/>
+    <file name="pedagogies5040-u145089-3-fr2.png" crc="36990415" ref="graphics"/>
+    <file name="homepagepic-u361018-fr.jpg" crc="278339409" ref="graphics:elearning"/>
+    <file name="06rose-u141852-fr2.jpg" crc="381610289" ref="graphics"/>
+    <file name="homepagepic-u361018-fr2.jpg" crc="4160169370" ref="graphics"/>
+    <file name="contactpic2200pxportrait-u129147-fr3.jpg" crc="352074986" ref="graphics"/>
+    <file name="homepagepic-u129154-fr2.jpg" crc="3931279000" ref="graphics"/>
+    <file name="06rose-u141852-fr3.jpg" crc="3926563628" ref="graphics"/>
+    <file name="homepagepic-u129154-fr3.jpg" crc="59734838" ref="graphics"/>
+    <file name="homepagepic-u361018-fr3.jpg" crc="4250677036" ref="graphics"/>
+    <file name="homepagepic-u129154-fr4.jpg" crc="3923262662" ref="graphics"/>
+    <file name="webdesign.jpg" crc="181343470" ref="elearning">
+      <caption webpage="elearning" alt=""/>
+    </file>
+    <file name="frenchclass.jpg" crc="54692594" ref="elearning">
+      <caption webpage="elearning" alt=""/>
+    </file>
+    <file name="harvey_banner.jpg" crc="4190234789" ref="elearning">
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="elearning" alt=""/>
+    </file>
+    <file name="graphicorg.jpg" crc="378692582" ref="elearning"/>
+    <file name="frenchclass-u132412-fr.jpg" crc="4077132208" ref="elearning"/>
+    <file name="graphicorg-u262258-fr.jpg" crc="236159650" ref="elearning"/>
   </folder>
-  <file name="index.html" crc="3767494513" seo="true" mt="1545690030567" redirect="true"/>
+  <file name="index.html" crc="260975411" seo="true" mt="1546120269207" redirect="true"/>
+  <file name="text.html" crc="40023209" seo="true" mt="1546216408128" redirect="true"/>
+  <file name="graphics.html" crc="530477868" seo="true" mt="1546216941328" redirect="true"/>
+  <file name="elearning.html" crc="410400772" seo="true" mt="1546083061869" redirect="true"/>
+  <file name="poster.html" crc="488588342" seo="true" mt="1545756314774" redirect="true"/>
 </manifest>
