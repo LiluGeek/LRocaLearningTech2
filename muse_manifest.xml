@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LRocaInstructionalDesigner.com" resolutions="1x" timestamp="1546217205849">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LRocaInstructionalDesigner.com" resolutions="1x" timestamp="1547347207561">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_home-master.css" crc="37444060" ref="graphics:poster:text:elearning:index"/>
-    <file name="nomq_preview_master_home-master.css" crc="373221082" ref="graphics:poster:text:elearning:index"/>
-    <file name="graphics.css" crc="3949347558" ref="graphics"/>
-    <file name="nomq_graphics.css" crc="4062566518" ref="graphics"/>
-    <file name="poster.css" crc="3815619137" ref="poster"/>
+    <file name="master_home-master.css" crc="30237120" ref="poster:index:elearning:graphics:text"/>
+    <file name="nomq_preview_master_home-master.css" crc="230543840" ref="poster:index:elearning:graphics:text"/>
+    <file name="poster.css" crc="531569960" ref="poster"/>
     <file name="nomq_poster.css" crc="423184629" ref="poster"/>
-    <file name="text.css" crc="522989262" ref="text"/>
-    <file name="nomq_text.css" crc="299987672" ref="text"/>
-    <file name="elearning.css" crc="269990773" ref="elearning"/>
-    <file name="nomq_elearning.css" crc="4240217262" ref="elearning"/>
-    <file name="index.css" crc="303881567" ref="index"/>
-    <file name="nomq_index.css" crc="3844270778" ref="index"/>
+    <file name="index.css" crc="25454851" ref="index"/>
+    <file name="nomq_index.css" crc="140231271" ref="index"/>
+    <file name="elearning.css" crc="316879715" ref="elearning"/>
+    <file name="nomq_elearning.css" crc="433818337" ref="elearning"/>
+    <file name="graphics.css" crc="3803244758" ref="graphics"/>
+    <file name="nomq_graphics.css" crc="4127478916" ref="graphics"/>
+    <file name="text.css" crc="475630441" ref="text"/>
+    <file name="nomq_text.css" crc="430817039" ref="text"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:text:graphics:elearning:poster"/>
@@ -41,6 +41,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="elearning" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
       <caption webpage="poster" alt=""/>
       <caption webpage="poster" alt=""/>
       <caption webpage="poster" alt=""/>
@@ -54,20 +68,6 @@
       <caption webpage="text" alt=""/>
       <caption webpage="text" alt=""/>
       <caption webpage="text" alt=""/>
-      <caption webpage="elearning" alt=""/>
-      <caption webpage="elearning" alt=""/>
-      <caption webpage="elearning" alt=""/>
-      <caption webpage="elearning" alt=""/>
-      <caption webpage="elearning" alt=""/>
-      <caption webpage="elearning" alt=""/>
-      <caption webpage="elearning" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
     </file>
     <file name="homepagepic.jpg" crc="3784829568" ref="index:text:graphics:elearning">
       <caption webpage="index" alt=""/>
@@ -143,17 +143,17 @@
       <caption webpage="graphics" alt=""/>
     </file>
     <file name="coral-reefgif.gif" crc="512019211" ref="graphics:poster">
-      <caption webpage="poster" alt=""/>
-      <caption webpage="poster" alt=""/>
-      <caption webpage="poster" alt=""/>
-      <caption webpage="poster" alt=""/>
-      <caption webpage="poster" alt=""/>
-      <caption webpage="poster" alt=""/>
       <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
     </file>
     <file name="scratch.gif" crc="4014863908" ref="graphics">
       <caption webpage="graphics" alt=""/>
@@ -231,9 +231,9 @@
     <file name="frenchclass-u132412-fr.jpg" crc="4077132208" ref="elearning"/>
     <file name="graphicorg-u262258-fr.jpg" crc="236159650" ref="elearning"/>
   </folder>
-  <file name="index.html" crc="260975411" seo="true" mt="1546120269207" redirect="true"/>
-  <file name="text.html" crc="40023209" seo="true" mt="1546216408128" redirect="true"/>
-  <file name="graphics.html" crc="530477868" seo="true" mt="1546216941328" redirect="true"/>
-  <file name="elearning.html" crc="410400772" seo="true" mt="1546083061869" redirect="true"/>
-  <file name="poster.html" crc="488588342" seo="true" mt="1545756314774" redirect="true"/>
+  <file name="index.html" crc="477974268" seo="true" mt="1546451232491" redirect="true"/>
+  <file name="text.html" crc="3919108322" seo="true" mt="1546451378172" redirect="true"/>
+  <file name="graphics.html" crc="3999642492" seo="true" mt="1547347023645" redirect="true"/>
+  <file name="elearning.html" crc="486760578" seo="true" mt="1547346318074" redirect="true"/>
+  <file name="poster.html" crc="236935208" seo="true" mt="1545756314774" redirect="true"/>
 </manifest>
